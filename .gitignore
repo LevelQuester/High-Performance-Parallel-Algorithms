@@ -1,0 +1,35 @@
+### CLion ###
+.idea/
+cmake-build-*/
+*.iws
+*.out
+*.app
+
+### CMake ###
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+### C++ ###
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.lib
+*.exe
+*.out
+*.app
+
+### CUDA / NVIDIA ###
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+### OS specific ###
+.DS_Store
